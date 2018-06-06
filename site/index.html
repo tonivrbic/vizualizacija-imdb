@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+    <div>
+        <h1 class="title">
+            <img src="imdb.png" alt="IMDB logo" width="205" height="100"> <span>TOP 250</span>
+        </h1>
+    </div>
+    <div class="filter-container">
+        <input type="text" class="search" placeholder="Search movies by title...">
+        <button class="show-all">Show all</button>
+        <button class="show-box-office">Box office</button>
+        <!-- <div class="onoffswitch">
+            <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked>
+            <label class="onoffswitch-label" for="myonoffswitch">
+                <span class="onoffswitch-inner"></span>
+                <span class="onoffswitch-switch"></span>
+            </label>
+        </div> -->
+    </div>
+    <svg id="scatter-graph"></svg>
+    <p class="imdb-about">
+        IMDb, also known as Internet Movie Database, is an online database of information related to world films, television programs, home videos and video games, and internet streams, including cast, production crew and personnel biographies, plot summaries, trivia, and fan reviews and ratings. An additional fan feature, message boards, was abandoned in February 2017. Originally a fan-operated website, the database is owned and operated by IMDb.com, Inc., a subsidiary of Amazon.
+        <a href="https://www.wikiwand.com/en/IMDb">[src:wikipedia]</a>
+    </p>
+    <div class="dialog__wrapper hidden">
+        <div class="dialog__box">
+            <div class="dialog__image">
+                <img src="https://ia.media-imdb.com/images/M/MV5BZmZiMzExZjMtNDIwZC00YmE5LTgzZWUtYzQ1YzI3YWQ3MjgxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg" width="300" height="458">
+            </div>
+            <div class="dialog__content">
+                <div class="dialog__title">My movie</div>
+                <div class="dialog__imdb"><img src="./imdb.png" alt="IMDB Logo" height="25"><span>7.2</span></div>
+                <div class="dialog__description">"During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade Colonel who has set himself up as a god among a local tribe."</div>
+                <div class="dialog__writers"><strong>Writers: </strong><span></span></div>
+                <div class="dialog__actors"><strong>Actors: </strong><span></span></div>
+                <div class="dialog__awards"><strong>Awards: </strong><span></span></div>
+                <div class="dialog__genre"><strong>Genre: </strong><span></span></div>
+                <div class="dialog__runtime"><strong>Runtime: </strong><span></span></div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
