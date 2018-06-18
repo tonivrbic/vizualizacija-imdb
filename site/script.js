@@ -6,12 +6,6 @@ var brushHeight = 50;
 var globalData = [],
   filteredData = [],
   activeGenre = "";
-/* 
- * value accessor - returns the value to encode for a given data object.
- * scale - maps value to a visual display encoding, such as a pixel position.
- * map function - maps from data value to display value
- * axis - sets up axis
- */
 
 // setup x
 var xValue = function(d) {
@@ -39,12 +33,7 @@ var yValue = function(d) {
     .axis()
     .scale(yScale)
     .orient("left");
-var yOfficeValue = function(d) {
-    return d.boxOffice;
-  },
-  yOfficeMap = function(d) {
-    return yScale(yOfficeValue(d));
-  };
+
 // x axis brush
 var xValueBrush = function(d) {
     return d.year;
@@ -96,50 +85,13 @@ function customColors(n) {
 }
 // setup fill color
 var cValue = function(d) {
-    // if (d.boxOffice > 500000000) {
-    //   return "$500 milion";
-    // } else if (d.boxOffice > 200000000) {
-    //   return "$200 milion";
-    // } else if (d.boxOffice > 100000000) {
-    //   return "$100 milion";
-    // } else if (d.boxOffice > 50000000) {
-    //   return "$50 milion";
-    // } else if (d.boxOffice > 10000000) {
-    //   return "$10 milion";
-    // }
-    // return "N/A";
     return d.genre.split(",")[0];
   },
   color = d3.scale.category20();
-var boxOfficeColorValue = function(d) {
-  if (d.boxOffice > 500000000) {
-    return "over $500 milion";
-  } else if (d.boxOffice > 200000000) {
-    return "over $200 milion";
-  } else if (d.boxOffice > 100000000) {
-    return "over $100 milion";
-  } else if (d.boxOffice > 50000000) {
-    return "over $50 milion";
-  } else if (d.boxOffice > 10000000) {
-    return "over $10 milion";
-  }
-  return "N/A";
-};
-var boxOfficeColorScale = d3.scale
-  .ordinal()
-  .domain([
-    "over $500 milion",
-    "over $200 milion",
-    "over $100 milion",
-    "over $50 milion",
-    "over $10 milion"
-  ])
-  .range(["#9e9e9e", "#d84315", "#ff5722", "#ff9800", "#ffc107", "#ffeb3b"]);
 
 // add the graph canvas to the body of the webpage
 var svg = d3
   .select("#scatter-graph")
-  // .append("svg")
   .attr("width", width + margin.left + margin.right)
   .attr("height", height + margin.top + margin.bottom + brushHeight * 2)
   .append("g")
@@ -197,20 +149,14 @@ brushGroup
   .attr("y", -6)
   .style("text-anchor", "end");
 var brushElement = brushGroup.append("g");
-// .attr("class", "x brush")
+
 brushElement
   .call(brush)
   .selectAll("rect")
-  // .attr("y", height + brushHeight)
   .attr("height", brushHeight);
 
 // load data
-d3.json("data3.json", function(error, data) {
-  // data = data.filter(v => v.year > 1950);
-  // var radiusScale = d3.scale
-  //   .pow()
-  //   .exponent(2.71)
-  //   .domain([d3.min(data, d => d.budget), d3.max(data, d => d.budget)]);
+d3.json("data.json", function(error, data) {
   globalData = [...data];
   filteredData = [...data];
 
@@ -236,7 +182,7 @@ document.querySelector(".show-all").addEventListener("click", () => {
   activeGenre = "";
   document.querySelector(".search").value = "";
   brushElement.call(brush.clear());
-  // brush.clear();
+
   update(globalData);
 });
 
@@ -248,19 +194,6 @@ dialogWrapper.addEventListener("click", e => {
   if (e.target.className === "dialog__wrapper") {
     dialogWrapper.classList.add("hidden");
   }
-});
-
-document.querySelector(".show-box-office").addEventListener("click", _ => {
-  var data = globalData.filter(v => v.boxOffice > 10000000);
-  // yScale.domain([
-  //   d3.min(data, v => v.boxOffice),
-  //   d3.max(data, v => v.boxOffice)
-  // ]);
-  update(
-    data,
-    [d3.min(data, v => v.boxOffice) - 10000000, d3.max(data, v => v.boxOffice)],
-    v => v.boxOffice
-  );
 });
 
 function drawLegend() {
@@ -342,12 +275,8 @@ function filterAndUpdateData() {
 function update(data, yDomain, yMapCustom) {
   // don't want dots overlapping axis, so add in buffer to data domain
   xScale.domain([d3.min(data, xValue) - 2, d3.max(data, xValue) + 2]);
-  if (yDomain) {
-    yScale.domain(yDomain);
-  } else {
-    yScale.domain([d3.min(data, yValue) - 0.2, 9.5]);
-  }
-  // yScale.domain([d3.min(data, yValue) - 0.2, d3.max(data, yValue) + 0.2]);
+
+  yScale.domain([d3.min(data, yValue) - 0.2, 9.5]);
 
   // x-axis
   svg
@@ -396,15 +325,11 @@ function update(data, yDomain, yMapCustom) {
   dots
     .transition()
     .duration(500)
-    .attr("r", 7)
-    // .attr("r", d => d.budget / 2000000)
-    // .attr("r", d => radiusScale(d.budget) * 5)
+    .attr("r", 6)
     .attr("cx", xMap)
-    .attr("cy", yMapCustom ? yOfficeMap : yMap)
+    .attr("cy", yMap)
     .style("fill", function(d) {
-      return yMapCustom
-        ? boxOfficeColorScale(boxOfficeColorValue(d))
-        : color(cValue(d));
+      return color(cValue(d));
     });
 
   dots

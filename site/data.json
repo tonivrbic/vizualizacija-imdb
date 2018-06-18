@@ -1,1 +1,2003 @@
-[{"rating": 8.5, "genres": ["Action", "Thriller"], "title": "The Dark Knight Rises", "year": 2012, "budget": "250000000", "id": 3, "url": "http://www.imdb.com/title/tt1345836/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Adventure", "Animation", "Comedy", "Family", "Fantasy"], "title": "Toy Story 3", "year": 2010, "budget": "200000000", "id": 42, "url": "http://www.imdb.com/title/tt0435761/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Adventure", "Animation", "Family", "Sci-Fi"], "title": "WALL\u00b7E", "year": 2008, "budget": "180000000", "id": 57, "url": "http://www.imdb.com/title/tt0910970/?ref_=fn_tt_tt_1"}, {"rating": 9.0, "genres": ["Action", "Crime", "Drama", "Thriller"], "title": "The Dark Knight", "year": 2008, "budget": "185000000", "id": 65, "url": "http://www.imdb.com/title/tt0468569/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Adventure", "Animation", "Comedy", "Family"], "title": "Up", "year": 2009, "budget": "175000000", "id": 66, "url": "http://www.imdb.com/title/tt1049413/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Adventure", "Animation", "Comedy", "Drama", "Family", "Fantasy"], "title": "Inside Out", "year": 2015, "budget": "175000000", "id": 77, "url": "http://www.imdb.com/title/tt2096673/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Adventure", "Animation", "Family", "Fantasy"], "title": "How to Train Your Dragon", "year": 2010, "budget": "165000000", "id": 92, "url": "http://www.imdb.com/title/tt0892769/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Action", "Adventure", "Sci-Fi"], "title": "Guardians of the Galaxy", "year": 2014, "budget": "170000000", "id": 94, "url": "http://www.imdb.com/title/tt2015381/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Adventure", "Drama", "Sci-Fi"], "title": "Interstellar", "year": 2014, "budget": "165000000", "id": 95, "url": "http://www.imdb.com/title/tt0816692/?ref_=fn_tt_tt_1"}, {"rating": 8.8, "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"], "title": "Inception", "year": 2010, "budget": "160000000", "id": 96, "url": "http://www.imdb.com/title/tt1375666/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Action", "Adventure"], "title": "Batman Begins", "year": 2005, "budget": "150000000", "id": 119, "url": "http://www.imdb.com/title/tt0372784/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"], "title": "Mad Max: Fury Road", "year": 2015, "budget": "150000000", "id": 127, "url": "http://www.imdb.com/title/tt1392190/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Action", "Mystery", "Thriller"], "title": "The Bourne Ultimatum", "year": 2007, "budget": "110000000", "id": 181, "url": "http://www.imdb.com/title/tt0440963/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Action", "Adventure", "Fantasy"], "title": "Pirates of the Caribbean: The Curse of the Black Pearl", "year": 2003, "budget": "140000000", "id": 203, "url": "http://www.imdb.com/title/tt0325980/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Adventure", "Animation", "Comedy", "Family", "Fantasy"], "title": "Monsters, Inc.", "year": 2001, "budget": "115000000", "id": 236, "url": "http://www.imdb.com/title/tt0198781/?ref_=fn_tt_tt_1"}, {"rating": 8.8, "genres": ["Action", "Adventure", "Drama", "Fantasy"], "title": "The Lord of the Rings: The Fellowship of the Ring", "year": 2001, "budget": "93000000", "id": 267, "url": "http://www.imdb.com/title/tt0120737/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Action", "Drama", "Romance"], "title": "Gladiator", "year": 2000, "budget": "103000000", "id": 279, "url": "http://www.imdb.com/title/tt0172495/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Action", "Sci-Fi"], "title": "Terminator 2: Judgment Day", "year": 1991, "budget": "102000000", "id": 284, "url": "http://www.imdb.com/title/tt0103064/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Drama", "Western"], "title": "Django Unchained", "year": 2012, "budget": "100000000", "id": 292, "url": "http://www.imdb.com/title/tt1853728/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Biography", "Comedy", "Crime", "Drama"], "title": "The Wolf of Wall Street", "year": 2013, "budget": "100000000", "id": 304, "url": "http://www.imdb.com/title/tt0993846/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Adventure", "Animation", "Comedy", "Family"], "title": "Finding Nemo", "year": 2003, "budget": "94000000", "id": 334, "url": "http://www.imdb.com/title/tt0266543/?ref_=fn_tt_tt_1"}, {"rating": 8.9, "genres": ["Action", "Adventure", "Drama", "Fantasy"], "title": "The Lord of the Rings: The Return of the King", "year": 2003, "budget": "94000000", "id": 335, "url": "http://www.imdb.com/title/tt0167260/?ref_=fn_tt_tt_1"}, {"rating": 8.7, "genres": ["Action", "Adventure", "Drama", "Fantasy"], "title": "The Lord of the Rings: The Two Towers", "year": 2002, "budget": "94000000", "id": 336, "url": "http://www.imdb.com/title/tt0167261/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Crime", "Drama", "Thriller"], "title": "The Departed", "year": 2006, "budget": "90000000", "id": 357, "url": "http://www.imdb.com/title/tt0407887/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Mystery", "Thriller"], "title": "Shutter Island", "year": 2010, "budget": "80000000", "id": 447, "url": "http://www.imdb.com/title/tt1130884/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Biography", "Drama"], "title": "A Beautiful Mind", "year": 2001, "budget": "58000000", "id": 501, "url": "http://www.imdb.com/title/tt0268978/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Adventure", "Animation", "Drama", "Family", "Musical"], "title": "The Lion King", "year": 1994, "budget": "45000000", "id": 502, "url": "http://www.imdb.com/title/tt0110357/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Biography", "Drama", "History", "War"], "title": "Braveheart", "year": 1995, "budget": "72000000", "id": 564, "url": "http://www.imdb.com/title/tt0112573/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Adventure", "Drama", "War"], "title": "Inglourious Basterds", "year": 2009, "budget": "75000000", "id": 579, "url": "http://www.imdb.com/title/tt0361748/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Action", "Drama", "War"], "title": "Saving Private Ryan", "year": 1998, "budget": "70000000", "id": 637, "url": "http://www.imdb.com/title/tt0120815/?ref_=fn_tt_tt_1"}, {"rating": 8.7, "genres": ["Action", "Sci-Fi"], "title": "The Matrix", "year": 1999, "budget": "63000000", "id": 643, "url": "http://www.imdb.com/title/tt0133093/?ref_=fn_tt_tt_1"}, {"rating": 8.8, "genres": ["Drama"], "title": "Fight Club", "year": 1999, "budget": "63000000", "id": 672, "url": "http://www.imdb.com/title/tt0137523/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Adventure", "Sci-Fi", "Thriller"], "title": "Jurassic Park", "year": 1993, "budget": "63000000", "id": 685, "url": "http://www.imdb.com/title/tt0107290/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Crime", "Drama", "Fantasy", "Mystery"], "title": "The Green Mile", "year": 1999, "budget": "60000000", "id": 700, "url": "http://www.imdb.com/title/tt0120689/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Crime", "Drama", "Mystery", "Thriller"], "title": "Gone Girl", "year": 2014, "budget": "61000000", "id": 703, "url": "http://www.imdb.com/title/tt2267998/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Comedy", "Drama", "Sci-Fi"], "title": "The Truman Show", "year": 1998, "budget": "60000000", "id": 707, "url": "http://www.imdb.com/title/tt0120382/?ref_=fn_tt_tt_1"}, {"rating": 8.8, "genres": ["Comedy", "Drama"], "title": "Forrest Gump", "year": 1994, "budget": "55000000", "id": 820, "url": "http://www.imdb.com/title/tt0109830/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Action"], "title": "Kill Bill: Vol. 1", "year": 2003, "budget": "30000000", "id": 839, "url": "http://www.imdb.com/title/tt0266697/?ref_=fn_tt_tt_1"}, {"rating": 8.0, "genres": ["Biography", "Crime", "Drama"], "title": "Catch Me If You Can", "year": 2002, "budget": "52000000", "id": 894, "url": "http://www.imdb.com/title/tt0264464/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Biography", "Crime", "Drama"], "title": "Casino", "year": 1995, "budget": "52000000", "id": 903, "url": "http://www.imdb.com/title/tt0112641/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Action", "Drama", "Thriller"], "title": "V for Vendetta", "year": 2005, "budget": "54000000", "id": 943, "url": "http://www.imdb.com/title/tt0434409/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Action", "Adventure", "Fantasy"], "title": "Indiana Jones and the Last Crusade", "year": 1989, "budget": "48000000", "id": 1017, "url": "http://www.imdb.com/title/tt0097576/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Crime", "Drama", "Mystery", "Thriller"], "title": "Prisoners", "year": 2013, "budget": "46000000", "id": 1062, "url": "http://www.imdb.com/title/tt1392214/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Mystery", "Thriller"], "title": "The Sixth Sense", "year": 1999, "budget": "40000000", "id": 1157, "url": "http://www.imdb.com/title/tt0167404/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"], "title": "The Prestige", "year": 2006, "budget": "40000000", "id": 1209, "url": "http://www.imdb.com/title/tt0482571/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Comedy", "Romance"], "title": "Am\u00e9lie", "year": 2001, "budget": "77000000", "id": 1273, "url": "http://www.imdb.com/title/tt0211915/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Horror", "Mystery", "Sci-Fi"], "title": "The Thing", "year": 1982, "budget": "15000000", "id": 1333, "url": "http://www.imdb.com/title/tt0084787/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Action", "Biography", "Drama", "Sport"], "title": "Rush", "year": 2013, "budget": "38000000", "id": 1347, "url": "http://www.imdb.com/title/tt1979320/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Crime", "Drama", "Mystery", "Thriller"], "title": "L.A. Confidential", "year": 1997, "budget": "35000000", "id": 1389, "url": "http://www.imdb.com/title/tt0119488/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Biography", "Drama", "War"], "title": "The Pianist", "year": 2002, "budget": "35000000", "id": 1420, "url": "http://www.imdb.com/title/tt0253474/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"], "title": "Star Wars: Episode VI - Return of the Jedi", "year": 1983, "budget": "32500000", "id": 1507, "url": "http://www.imdb.com/title/tt0086190/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Drama", "War"], "title": "Apocalypse Now", "year": 1979, "budget": "31500000", "id": 1542, "url": "http://www.imdb.com/title/tt0078788/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Adventure", "Comedy", "Crime", "Drama"], "title": "The Grand Budapest Hotel", "year": 2014, "budget": "25000000", "id": 1549, "url": "http://www.imdb.com/title/tt2278388/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Adventure", "Animation", "Comedy", "Family", "Fantasy"], "title": "Toy Story", "year": 1995, "budget": "30000000", "id": 1559, "url": "http://www.imdb.com/title/tt0114709/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Crime", "Drama", "Mystery", "Thriller"], "title": "Se7en", "year": 1995, "budget": "33000000", "id": 1571, "url": "http://www.imdb.com/title/tt0114369/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Sport"], "title": "Million Dollar Baby", "year": 2004, "budget": "30000000", "id": 1575, "url": "http://www.imdb.com/title/tt0405159/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Crime", "Drama"], "title": "Once Upon a Time in America", "year": 1984, "budget": "30000000", "id": 1681, "url": "http://www.imdb.com/title/tt0087843/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Action", "Thriller"], "title": "Die Hard", "year": 1988, "budget": "28000000", "id": 1720, "url": "http://www.imdb.com/title/tt0095016/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Sci-Fi", "Thriller"], "title": "Blade Runner", "year": 1982, "budget": "28000000", "id": 1743, "url": "http://www.imdb.com/title/tt0083658/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama"], "title": "Gran Torino", "year": 2008, "budget": "33000000", "id": 1832, "url": "http://www.imdb.com/title/tt1205489/?ref_=fn_tt_tt_1"}, {"rating": 8.9, "genres": ["Biography", "Drama", "History"], "title": "Schindler's List", "year": 1993, "budget": "22000000", "id": 1837, "url": "http://www.imdb.com/title/tt0108052/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama"], "title": "The Help", "year": 2011, "budget": "25000000", "id": 1838, "url": "http://www.imdb.com/title/tt1454029/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Crime", "Drama", "Thriller"], "title": "No Country for Old Men", "year": 2007, "budget": "25000000", "id": 1848, "url": "http://www.imdb.com/title/tt0477348/?ref_=fn_tt_tt_1"}, {"rating": 8.7, "genres": ["Biography", "Crime", "Drama"], "title": "Goodfellas", "year": 1990, "budget": "25000000", "id": 1866, "url": "http://www.imdb.com/title/tt0099685/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Crime", "Drama"], "title": "Scarface", "year": 1983, "budget": "25000000", "id": 1869, "url": "http://www.imdb.com/title/tt0086250/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama"], "title": "There Will Be Blood", "year": 2007, "budget": "25000000", "id": 1874, "url": "http://www.imdb.com/title/tt0469494/?ref_=fn_tt_tt_1"}, {"rating": 9.3, "genres": ["Crime", "Drama"], "title": "The Shawshank Redemption", "year": 1994, "budget": "25000000", "id": 1900, "url": "http://www.imdb.com/title/tt0111161/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama", "Sport"], "title": "Warrior", "year": 2011, "budget": "25000000", "id": 1939, "url": "http://www.imdb.com/title/tt1291584/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Adventure", "Animation", "Family", "Fantasy"], "title": "Howl's Moving Castle", "year": 2004, "budget": "24000000", "id": 2008, "url": "http://www.imdb.com/title/tt0347149/?ref_=fn_tt_tt_1"}, {"rating": 8.8, "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"], "title": "Star Wars: Episode V - The Empire Strikes Back", "year": 1980, "budget": "18000000", "id": 2012, "url": "http://www.imdb.com/title/tt0080684/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Biography", "Drama", "History"], "title": "Gandhi", "year": 1982, "budget": "22000000", "id": 2048, "url": "http://www.imdb.com/title/tt0083987/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Action", "Adventure"], "title": "Raiders of the Lost Ark", "year": 1981, "budget": "18000000", "id": 2111, "url": "http://www.imdb.com/title/tt0082971/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Crime", "Drama", "Horror", "Thriller"], "title": "The Silence of the Lambs", "year": 1991, "budget": "19000000", "id": 2117, "url": "http://www.imdb.com/title/tt0102926/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Biography", "Drama", "History"], "title": "12 Years a Slave", "year": 2013, "budget": "20000000", "id": 2133, "url": "http://www.imdb.com/title/tt2024544/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Biography", "Crime", "Drama", "History"], "title": "Spotlight", "year": 2015, "budget": "20000000", "id": 2152, "url": "http://www.imdb.com/title/tt1895587/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Drama", "Fantasy", "Romance", "Sci-Fi"], "title": "Eternal Sunshine of the Spotless Mind", "year": 2004, "budget": "20000000", "id": 2181, "url": "http://www.imdb.com/title/tt0338013/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Horror", "Mystery", "Thriller"], "title": "Psycho", "year": 1960, "budget": "806947", "id": 2199, "url": "http://www.imdb.com/title/tt0054215/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Adventure", "Biography", "Drama"], "title": "Into the Wild", "year": 2007, "budget": "15000000", "id": 2207, "url": "http://www.imdb.com/title/tt0758758/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Adventure", "Animation", "Fantasy"], "title": "Princess Mononoke", "year": 1997, "budget": "2400000000", "id": 2278, "url": "http://www.imdb.com/title/tt0119698/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Drama", "Horror"], "title": "The Shining", "year": 1980, "budget": "19000000", "id": 2316, "url": "http://www.imdb.com/title/tt0081505/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Adventure", "Comedy", "Sci-Fi"], "title": "Back to the Future", "year": 1985, "budget": "19000000", "id": 2317, "url": "http://www.imdb.com/title/tt0088763/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Adventure", "Animation", "Family", "Fantasy"], "title": "Spirited Away", "year": 2001, "budget": "19000000", "id": 2326, "url": "http://www.imdb.com/title/tt0245429/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Biography", "Drama", "History", "Music"], "title": "Amadeus", "year": 1984, "budget": "18000000", "id": 2360, "url": "http://www.imdb.com/title/tt0086879/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Biography", "Drama", "Sport"], "title": "Raging Bull", "year": 1980, "budget": "18000000", "id": 2377, "url": "http://www.imdb.com/title/tt0081398/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "History", "War"], "title": "Hotel Rwanda", "year": 2004, "budget": "17500000", "id": 2430, "url": "http://www.imdb.com/title/tt0395169/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Action", "Adventure", "Sci-Fi"], "title": "Aliens", "year": 1986, "budget": "18500000", "id": 2436, "url": "http://www.imdb.com/title/tt0090605/?ref_=fn_tt_tt_1"}, {"rating": 8.0, "genres": ["Comedy", "Drama"], "title": "Dead Poets Society", "year": 1989, "budget": "16400000", "id": 2489, "url": "http://www.imdb.com/title/tt0097165/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama", "Fantasy", "War"], "title": "Pan's Labyrinth", "year": 2006, "budget": "13500000", "id": 2501, "url": "http://www.imdb.com/title/tt0457430/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Family"], "title": "Hachi: A Dog's Tale", "year": 2009, "budget": "16000000", "id": 2539, "url": "http://www.imdb.com/title/tt1028532/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Drama"], "title": "American Beauty", "year": 1999, "budget": "15000000", "id": 2554, "url": "http://www.imdb.com/title/tt0169547/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama", "War"], "title": "The Deer Hunter", "year": 1978, "budget": "15000000", "id": 2576, "url": "http://www.imdb.com/title/tt0077416/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Adventure", "Biography", "Drama", "History", "War"], "title": "Lawrence of Arabia", "year": 1962, "budget": "15000000", "id": 2591, "url": "http://www.imdb.com/title/tt0056172/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Adventure", "Family", "Fantasy", "Romance"], "title": "The Princess Bride", "year": 1987, "budget": "16000000", "id": 2598, "url": "http://www.imdb.com/title/tt0093779/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Comedy", "Crime"], "title": "The Big Lebowski", "year": 1998, "budget": "15000000", "id": 2649, "url": "http://www.imdb.com/title/tt0118715/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Drama", "Sci-Fi"], "title": "Metropolis", "year": 1927, "budget": "6000000", "id": 2679, "url": "http://www.imdb.com/title/tt0017136/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Comedy", "Fantasy", "Romance"], "title": "Groundhog Day", "year": 1993, "budget": "14600000", "id": 2700, "url": "http://www.imdb.com/title/tt0107048/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Drama", "Western"], "title": "Unforgiven", "year": 1992, "budget": "14400000", "id": 2705, "url": "http://www.imdb.com/title/tt0105695/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Biography", "Drama", "History", "War"], "title": "Downfall", "year": 2004, "budget": "13500000", "id": 2770, "url": "http://www.imdb.com/title/tt0363163/?ref_=fn_tt_tt_1"}, {"rating": 9.0, "genres": ["Crime", "Drama"], "title": "The Godfather: Part II", "year": 1974, "budget": "13000000", "id": 2778, "url": "http://www.imdb.com/title/tt0071562/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Drama"], "title": "Room", "year": 2015, "budget": "13000000", "id": 2807, "url": "http://www.imdb.com/title/tt3170832/?ref_=fn_tt_tt_1"}, {"rating": 8.0, "genres": ["Adventure", "Drama", "Thriller"], "title": "Jaws", "year": 1975, "budget": "8000000", "id": 2857, "url": "http://www.imdb.com/title/tt0073195/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Adventure", "Drama", "Thriller", "War"], "title": "Das Boot", "year": 1981, "budget": "14000000", "id": 2909, "url": "http://www.imdb.com/title/tt0082096/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Comedy", "Crime"], "title": "Snatch", "year": 2000, "budget": "6000000", "id": 2956, "url": "http://www.imdb.com/title/tt0208092/?ref_=fn_tt_tt_1"}, {"rating": 8.7, "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"], "title": "Star Wars: Episode IV - A New Hope", "year": 1977, "budget": "11000000", "id": 2963, "url": "http://www.imdb.com/title/tt0076759/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Adventure", "Drama", "History", "War"], "title": "Barry Lyndon", "year": 1975, "budget": "11000000", "id": 2987, "url": "http://www.imdb.com/title/tt0072684/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Adventure", "Mystery", "Sci-Fi"], "title": "2001: A Space Odyssey", "year": 1968, "budget": "12000000", "id": 3018, "url": "http://www.imdb.com/title/tt0062622/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Drama"], "title": "Good Will Hunting", "year": 1997, "budget": "10000000", "id": 3027, "url": "http://www.imdb.com/title/tt0119217/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Comedy", "Crime"], "title": "Snatch", "year": 2000, "budget": "6000000", "id": 3055, "url": "http://www.imdb.com/title/tt0208092/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Crime", "Drama"], "title": "American History X", "year": 1998, "budget": "7500000", "id": 3112, "url": "http://www.imdb.com/title/tt0120586/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Horror", "Sci-Fi"], "title": "Alien", "year": 1979, "budget": "11000000", "id": 3213, "url": "http://www.imdb.com/title/tt0078748/?ref_=fn_tt_tt_1"}, {"rating": 8.9, "genres": ["Crime", "Drama"], "title": "Pulp Fiction", "year": 1994, "budget": "8000000", "id": 3289, "url": "http://www.imdb.com/title/tt0110912/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Adventure", "Drama"], "title": "Stand by Me", "year": 1986, "budget": "8000000", "id": 3296, "url": "http://www.imdb.com/title/tt0092005/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Action", "Animation", "Sci-Fi"], "title": "Akira", "year": 1988, "budget": "1100000000", "id": 3354, "url": "http://www.imdb.com/title/tt0094625/?ref_=fn_tt_tt_1"}, {"rating": 9.2, "genres": ["Crime", "Drama"], "title": "The Godfather", "year": 1972, "budget": "6000000", "id": 3397, "url": "http://www.imdb.com/title/tt0068646/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama", "Mystery", "War"], "title": "Incendies", "year": 2010, "budget": "6800000", "id": 3477, "url": "http://www.imdb.com/title/tt1255953/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Action", "Sci-Fi"], "title": "The Terminator", "year": 1984, "budget": "6500000", "id": 3502, "url": "http://www.imdb.com/title/tt0088247/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "War"], "title": "Platoon", "year": 1986, "budget": "6000000", "id": 3508, "url": "http://www.imdb.com/title/tt0091763/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Biography", "Crime", "Drama", "Western"], "title": "Butch Cassidy and the Sundance Kid", "year": 1969, "budget": "6000000", "id": 3510, "url": "http://www.imdb.com/title/tt0064115/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Crime", "Drama", "Mystery", "Thriller"], "title": "The Usual Suspects", "year": 1995, "budget": "6000000", "id": 3518, "url": "http://www.imdb.com/title/tt0114814/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Comedy", "Crime", "Drama"], "title": "The Sting", "year": 1973, "budget": "5500000", "id": 3590, "url": "http://www.imdb.com/title/tt0070735/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Comedy", "Drama", "History", "Romance"], "title": "Rang De Basanti", "year": 2006, "budget": "", "id": 3607, "url": "http://www.imdb.com/title/tt0405508/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Biography", "Drama"], "title": "The Elephant Man", "year": 1980, "budget": "5000000", "id": 3635, "url": "http://www.imdb.com/title/tt0080678/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Mystery", "Thriller"], "title": "Memento", "year": 2000, "budget": "9000000", "id": 3638, "url": "http://www.imdb.com/title/tt0209144/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Western"], "title": "Once Upon a Time in the West", "year": 1968, "budget": "5000000", "id": 3688, "url": "http://www.imdb.com/title/tt0064116/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Drama"], "title": "Requiem for a Dream", "year": 2000, "budget": "4500000", "id": 3768, "url": "http://www.imdb.com/title/tt0180093/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Sci-Fi", "Thriller"], "title": "Donnie Darko", "year": 2001, "budget": "4500000", "id": 3773, "url": "http://www.imdb.com/title/tt0246578/?ref_=fn_tt_tt_1"}, {"rating": 8.7, "genres": ["Drama"], "title": "One Flew Over the Cuckoo's Nest", "year": 1975, "budget": "4400000", "id": 3786, "url": "http://www.imdb.com/title/tt0073486/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Comedy", "Romance"], "title": "Annie Hall", "year": 1977, "budget": "4000000", "id": 3806, "url": "http://www.imdb.com/title/tt0075686/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Adventure", "Drama", "History", "Thriller", "War"], "title": "The Great Escape", "year": 1963, "budget": "4000000", "id": 3819, "url": "http://www.imdb.com/title/tt0057115/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Romance"], "title": "Network", "year": 1976, "budget": "3800000", "id": 3884, "url": "http://www.imdb.com/title/tt0074958/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama", "History", "Romance", "War"], "title": "Gone with the Wind", "year": 1939, "budget": "3977000", "id": 3885, "url": "http://www.imdb.com/title/tt0031381/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama", "Mystery", "Thriller"], "title": "The Secret in Their Eyes", "year": 2009, "budget": "2000000", "id": 3913, "url": "http://www.imdb.com/title/tt1305806/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Drama", "Music"], "title": "Whiplash", "year": 2014, "budget": "3300000", "id": 3940, "url": "http://www.imdb.com/title/tt2582802/?ref_=fn_tt_tt_1"}, {"rating": 8.7, "genres": ["Crime", "Drama"], "title": "City of God", "year": 2002, "budget": "3300000", "id": 3941, "url": "http://www.imdb.com/title/tt0317248/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Drama"], "title": "The Hunt", "year": 2012, "budget": "3800000", "id": 3945, "url": "http://www.imdb.com/title/tt2106476/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Drama", "Family", "Fantasy", "Romance"], "title": "It's a Wonderful Life", "year": 1946, "budget": "3180000", "id": 3961, "url": "http://www.imdb.com/title/tt0038650/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama"], "title": "Trainspotting", "year": 1996, "budget": "3500000", "id": 3962, "url": "http://www.imdb.com/title/tt0117951/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Adventure", "Drama", "War"], "title": "The Bridge on the River Kwai", "year": 1957, "budget": "3000000", "id": 3978, "url": "http://www.imdb.com/title/tt0050212/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Comedy", "Drama", "Romance"], "title": "The Apartment", "year": 1960, "budget": "3000000", "id": 3981, "url": "http://www.imdb.com/title/tt0053604/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Drama", "War"], "title": "Judgment at Nuremberg", "year": 1961, "budget": "3000000", "id": 3989, "url": "http://www.imdb.com/title/tt0055031/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Drama", "Mystery", "Thriller"], "title": "Oldboy", "year": 2003, "budget": "3000000", "id": 4015, "url": "http://www.imdb.com/title/tt0364569/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Comedy", "Music", "Romance"], "title": "Some Like It Hot", "year": 1959, "budget": "2883848", "id": 4062, "url": "http://www.imdb.com/title/tt0053291/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Adventure", "Family", "Fantasy", "Musical"], "title": "The Wizard of Oz", "year": 1939, "budget": "2800000", "id": 4064, "url": "http://www.imdb.com/title/tt0032138/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Comedy", "Musical", "Romance"], "title": "Singin' in the Rain", "year": 1952, "budget": "2540800", "id": 4085, "url": "http://www.imdb.com/title/tt0045152/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Romance"], "title": "Before Sunrise", "year": 1995, "budget": "2500000", "id": 4097, "url": "http://www.imdb.com/title/tt0112471/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Romance", "War"], "title": "The Best Years of Our Lives", "year": 1946, "budget": "2100000", "id": 4145, "url": "http://www.imdb.com/title/tt0036868/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Crime", "Drama"], "title": "To Kill a Mockingbird", "year": 1962, "budget": "2000000", "id": 4159, "url": "http://www.imdb.com/title/tt0056592/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Drama", "Thriller"], "title": "The Lives of Others", "year": 2006, "budget": "2000000", "id": 4165, "url": "http://www.imdb.com/title/tt0405094/?ref_=fn_tt_tt_1"}, {"rating": 8.0, "genres": ["Drama", "Romance"], "title": "Before Sunset", "year": 2004, "budget": "2700000", "id": 4172, "url": "http://www.imdb.com/title/tt0381681/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Thriller"], "title": "Amores Perros", "year": 2000, "budget": "2000000", "id": 4173, "url": "http://www.imdb.com/title/tt0245712/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Comedy"], "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb", "year": 1964, "budget": "1800000", "id": 4261, "url": "http://www.imdb.com/title/tt0057012/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Comedy", "Drama"], "title": "Mr. Smith Goes to Washington", "year": 1939, "budget": "1500000", "id": 4306, "url": "http://www.imdb.com/title/tt0031679/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Comedy", "Drama", "Family"], "title": "Modern Times", "year": 1936, "budget": "1500000", "id": 4328, "url": "http://www.imdb.com/title/tt0027977/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Comedy", "Crime"], "title": "Lock, Stock and Two Smoking Barrels", "year": 1998, "budget": "960000", "id": 4359, "url": "http://www.imdb.com/title/tt0120735/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Drama", "Film-Noir", "Mystery", "Thriller"], "title": "Rebecca", "year": 1940, "budget": "1288000", "id": 4373, "url": "http://www.imdb.com/title/tt0032976/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Crime", "Drama", "Thriller"], "title": "Reservoir Dogs", "year": 1992, "budget": "1200000", "id": 4394, "url": "http://www.imdb.com/title/tt0105236/?ref_=fn_tt_tt_1"}, {"rating": 8.9, "genres": ["Western"], "title": "The Good, the Bad and the Ugly", "year": 1966, "budget": "1200000", "id": 4396, "url": "http://www.imdb.com/title/tt0060196/?ref_=fn_tt_tt_1"}, {"rating": 8.6, "genres": ["Drama", "Romance", "War"], "title": "Casablanca", "year": 1942, "budget": "950000", "id": 4423, "url": "http://www.imdb.com/title/tt0034583/?ref_=fn_tt_tt_1"}, {"rating": 8.1, "genres": ["Drama", "Sport"], "title": "Rocky", "year": 1976, "budget": "960000", "id": 4427, "url": "http://www.imdb.com/title/tt0075148/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Crime", "Drama"], "title": "Taxi Driver", "year": 1976, "budget": "1300000", "id": 4432, "url": "http://www.imdb.com/title/tt0075314/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Crime", "Drama", "Romance"], "title": "On the Waterfront", "year": 1954, "budget": "910000", "id": 4534, "url": "http://www.imdb.com/title/tt0047296/?ref_=fn_tt_tt_1"}, {"rating": 8.4, "genres": ["Drama", "Mystery"], "title": "A Separation", "year": 2011, "budget": "500000", "id": 4555, "url": "http://www.imdb.com/title/tt1832382/?ref_=fn_tt_tt_1"}, {"rating": 8.7, "genres": ["Action", "Adventure", "Drama"], "title": "Seven Samurai", "year": 1954, "budget": "2000000", "id": 4643, "url": "http://www.imdb.com/title/tt0047478/?ref_=fn_tt_tt_1"}, {"rating": 8.3, "genres": ["Adventure", "Comedy", "Fantasy"], "title": "Monty Python and the Holy Grail", "year": 1975, "budget": "229575", "id": 4691, "url": "http://www.imdb.com/title/tt0071853/?ref_=fn_tt_tt_1"}, {"rating": 8.9, "genres": ["Crime", "Drama"], "title": "12 Angry Men", "year": 1957, "budget": "350000", "id": 4715, "url": "http://www.imdb.com/title/tt0050083/?ref_=fn_tt_tt_1"}, {"rating": 8.2, "genres": ["Comedy", "Romance"], "title": "It Happened One Night", "year": 1934, "budget": "325000", "id": 4717, "url": "http://www.imdb.com/title/tt0025316/?ref_=fn_tt_tt_1"}, {"rating": 8.5, "genres": ["Drama", "Family"], "title": "Children of Heaven", "year": 1997, "budget": "180000", "id": 4813, "url": "http://www.imdb.com/title/tt0118849/?ref_=fn_tt_tt_1"}]
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0111161"
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "rating": 9.2,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0068646"
+  },
+  {
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "rating": 9,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0071562"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "rating": 9,
+    "genre": "Action, Crime, Drama",
+    "boxOffice": 533316061,
+    "id": "tt0468569"
+  },
+  {
+    "title": "12 Angry Men",
+    "year": 1957,
+    "rating": 8.9,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0050083"
+  },
+  {
+    "title": "Schindler's List",
+    "year": 1993,
+    "rating": 8.9,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0108052"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "rating": 8.9,
+    "genre": "Adventure, Drama, Fantasy",
+    "boxOffice": 364000000,
+    "id": "tt0167260"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "rating": 8.9,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0110912"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "rating": 8.9,
+    "genre": "Western",
+    "boxOffice": 0,
+    "id": "tt0060196"
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "rating": 8.8,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0137523"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rating": 8.8,
+    "genre": "Adventure, Drama, Fantasy",
+    "boxOffice": 314000000,
+    "id": "tt0120737"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "rating": 8.8,
+    "genre": "Drama, Romance",
+    "boxOffice": 330000000,
+    "id": "tt0109830"
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "rating": 8.8,
+    "genre": "Action, Adventure, Fantasy",
+    "boxOffice": 4548170,
+    "id": "tt0080684"
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "genre": "Action, Adventure, Sci-Fi",
+    "boxOffice": 292568851,
+    "id": "tt1375666"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "rating": 8.7,
+    "genre": "Adventure, Drama, Fantasy",
+    "boxOffice": 339700000,
+    "id": "tt0167261"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "rating": 8.7,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0073486"
+  },
+  {
+    "title": "Goodfellas",
+    "year": 1990,
+    "rating": 8.7,
+    "genre": "Biography, Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0099685"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "genre": "Action, Sci-Fi",
+    "boxOffice": 0,
+    "id": "tt0133093"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "rating": 9,
+    "genre": "Action, Adventure, Fantasy",
+    "boxOffice": 0,
+    "id": "tt4154756"
+  },
+  {
+    "title": "Seven Samurai",
+    "year": 1954,
+    "rating": 8.7,
+    "genre": "Adventure, Drama",
+    "boxOffice": 0,
+    "id": "tt0047478"
+  },
+  {
+    "title": "City of God",
+    "year": 2002,
+    "rating": 8.6,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0317248"
+  },
+  {
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "rating": 8.6,
+    "genre": "Action, Adventure, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0076759"
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "rating": 8.6,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 0,
+    "id": "tt0114369"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "rating": 8.6,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0102926"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "year": 1946,
+    "rating": 8.6,
+    "genre": "Drama, Family, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0038650"
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "rating": 8.6,
+    "genre": "Comedy, Drama, War",
+    "boxOffice": 0,
+    "id": "tt0118799"
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "rating": 8.6,
+    "genre": "Crime, Mystery, Thriller",
+    "boxOffice": 0,
+    "id": "tt0114814"
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "rating": 8.6,
+    "genre": "Animation, Adventure, Family",
+    "boxOffice": 9855615,
+    "id": "tt0245429"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "rating": 8.6,
+    "genre": "Drama, War",
+    "boxOffice": 0,
+    "id": "tt0120815"
+  },
+  {
+    "title": "Léon: The Professional",
+    "year": 1994,
+    "rating": 8.6,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0110413"
+  },
+  {
+    "title": "The Green Mile",
+    "year": 1999,
+    "rating": 8.5,
+    "genre": "Crime, Drama, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0120689"
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.6,
+    "genre": "Adventure, Drama, Sci-Fi",
+    "boxOffice": 158737441,
+    "id": "tt0816692"
+  },
+  {
+    "title": "American History X",
+    "year": 1998,
+    "rating": 8.5,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0120586"
+  },
+  {
+    "title": "Psycho",
+    "year": 1960,
+    "rating": 8.5,
+    "genre": "Horror, Mystery, Thriller",
+    "boxOffice": 0,
+    "id": "tt0054215"
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "rating": 8.5,
+    "genre": "Western",
+    "boxOffice": 0,
+    "id": "tt0064116"
+  },
+  {
+    "title": "City Lights",
+    "year": 1931,
+    "rating": 8.6,
+    "genre": "Comedy, Drama, Romance",
+    "boxOffice": 0,
+    "id": "tt0021749"
+  },
+  {
+    "title": "Casablanca",
+    "year": 1942,
+    "rating": 8.5,
+    "genre": "Drama, Romance, War",
+    "boxOffice": 0,
+    "id": "tt0034583"
+  },
+  {
+    "title": "Modern Times",
+    "year": 1936,
+    "rating": 8.5,
+    "genre": "Comedy, Drama, Family",
+    "boxOffice": 0,
+    "id": "tt0027977"
+  },
+  {
+    "title": "The Intouchables",
+    "year": 2011,
+    "rating": 8.5,
+    "genre": "Biography, Comedy, Drama",
+    "boxOffice": 13179837,
+    "id": "tt1675434"
+  },
+  {
+    "title": "The Pianist",
+    "year": 2002,
+    "rating": 8.5,
+    "genre": "Biography, Drama, Music",
+    "boxOffice": 32519322,
+    "id": "tt0253474"
+  },
+  {
+    "title": "The Departed",
+    "year": 2006,
+    "rating": 8.5,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 132300000,
+    "id": "tt0407887"
+  },
+  {
+    "title": "Terminator 2",
+    "year": 1991,
+    "rating": 8.5,
+    "genre": "Action, Sci-Fi",
+    "boxOffice": 198116802,
+    "id": "tt0103064"
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "rating": 8.5,
+    "genre": "Action, Adventure",
+    "boxOffice": 0,
+    "id": "tt0082971"
+  },
+  {
+    "title": "Back to the Future",
+    "year": 1985,
+    "rating": 8.5,
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "boxOffice": 2925880,
+    "id": "tt0088763"
+  },
+  {
+    "title": "Rear Window",
+    "year": 1954,
+    "rating": 8.5,
+    "genre": "Mystery, Thriller",
+    "boxOffice": 0,
+    "id": "tt0047396"
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "rating": 8.5,
+    "genre": "Drama, Music",
+    "boxOffice": 0,
+    "id": "tt2582802"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "rating": 8.5,
+    "genre": "Action, Adventure, Drama",
+    "boxOffice": 0,
+    "id": "tt0172495"
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "rating": 8.5,
+    "genre": "Animation, Adventure, Drama",
+    "boxOffice": 94240635,
+    "id": "tt0110357"
+  },
+  {
+    "title": "The Prestige",
+    "year": 2006,
+    "rating": 8.5,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "boxOffice": 53100000,
+    "id": "tt0482571"
+  },
+  {
+    "title": "Memento",
+    "year": 2000,
+    "rating": 8.5,
+    "genre": "Mystery, Thriller",
+    "boxOffice": 23844220,
+    "id": "tt0209144"
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "rating": 8.5,
+    "genre": "Drama, War",
+    "boxOffice": 0,
+    "id": "tt0078788"
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "rating": 8.5,
+    "genre": "Horror, Sci-Fi",
+    "boxOffice": 0,
+    "id": "tt0078748"
+  },
+  {
+    "title": "The Great Dictator",
+    "year": 1940,
+    "rating": 8.5,
+    "genre": "Comedy, Drama, War",
+    "boxOffice": 0,
+    "id": "tt0032553"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "rating": 8.5,
+    "genre": "Drama",
+    "boxOffice": 239630,
+    "id": "tt0095765"
+  },
+  {
+    "title": "Sunset Boulevard",
+    "year": 1950,
+    "rating": 8.5,
+    "genre": "Drama, Film-Noir",
+    "boxOffice": 0,
+    "id": "tt0043014"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "rating": 8.5,
+    "genre": "Animation, Drama, War",
+    "boxOffice": 0,
+    "id": "tt0095327"
+  },
+  {
+    "title":
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "rating": 8.5,
+    "genre": "Comedy, War",
+    "boxOffice": 0,
+    "id": "tt0057012"
+  },
+  {
+    "title": "The Lives of Others",
+    "year": 2006,
+    "rating": 8.4,
+    "genre": "Drama, Thriller",
+    "boxOffice": 11200000,
+    "id": "tt0405094"
+  },
+  {
+    "title": "Paths of Glory",
+    "year": 1957,
+    "rating": 8.4,
+    "genre": "Drama, War",
+    "boxOffice": 0,
+    "id": "tt0050825"
+  },
+  {
+    "title": "The Shining",
+    "year": 1980,
+    "rating": 8.4,
+    "genre": "Drama, Horror",
+    "boxOffice": 0,
+    "id": "tt0081505"
+  },
+  {
+    "title": "Django Unchained",
+    "year": 2012,
+    "rating": 8.4,
+    "genre": "Drama, Western",
+    "boxOffice": 162804648,
+    "id": "tt1853728"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "rating": 8.5,
+    "genre": "Animation, Adventure, Comedy",
+    "boxOffice": 208487719,
+    "id": "tt2380307"
+  },
+  {
+    "title": "WALL·E",
+    "year": 2008,
+    "rating": 8.4,
+    "genre": "Animation, Adventure, Family",
+    "boxOffice": 223749872,
+    "id": "tt0910970"
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "rating": 8.4,
+    "genre": "Animation, Adventure, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0119698"
+  },
+  {
+    "title": "American Beauty",
+    "year": 1999,
+    "rating": 8.4,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0169547"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "rating": 8.4,
+    "genre": "Action, Thriller",
+    "boxOffice": 448130642,
+    "id": "tt1345836"
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "rating": 8.4,
+    "genre": "Action, Drama, Mystery",
+    "boxOffice": 637778,
+    "id": "tt0364569"
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "rating": 8.4,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 0,
+    "id": "tt0051201"
+  },
+  {
+    "title": "Aliens",
+    "year": 1986,
+    "rating": 8.4,
+    "genre": "Action, Adventure, Sci-Fi",
+    "boxOffice": 0,
+    "id": "tt0090605"
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "year": 1984,
+    "rating": 8.4,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0087843"
+  },
+  {
+    "title": "Das Boot",
+    "year": 1981,
+    "rating": 8.4,
+    "genre": "Adventure, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0082096"
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "rating": 8.4,
+    "genre": "Drama, Mystery",
+    "boxOffice": 0,
+    "id": "tt0033467"
+  },
+  {
+    "title": "Vertigo",
+    "year": 1958,
+    "rating": 8.3,
+    "genre": "Mystery, Romance, Thriller",
+    "boxOffice": 0,
+    "id": "tt0052357"
+  },
+  {
+    "title": "North by Northwest",
+    "year": 1959,
+    "rating": 8.3,
+    "genre": "Adventure, Mystery, Thriller",
+    "boxOffice": 0,
+    "id": "tt0053125"
+  },
+  {
+    "title": "Braveheart",
+    "year": 1995,
+    "rating": 8.4,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0112573"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "rating": 8.3,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0105236"
+  },
+  {
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "rating": 8.3,
+    "genre": "Action, Adventure, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0086190"
+  },
+  {
+    "title": "Your Name",
+    "year": 2016,
+    "rating": 8.4,
+    "genre": "Animation, Drama, Fantasy",
+    "boxOffice": 4676810,
+    "id": "tt5311514"
+  },
+  {
+    "title": "M",
+    "year": 1931,
+    "rating": 8.4,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 17599,
+    "id": "tt0022100"
+  },
+  {
+    "title": "Dangal",
+    "year": 2016,
+    "rating": 8.5,
+    "genre": "Action, Biography, Drama",
+    "boxOffice": 12382287,
+    "id": "tt5074352"
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "rating": 8.3,
+    "genre": "Drama",
+    "boxOffice": 2546851,
+    "id": "tt0180093"
+  },
+  {
+    "title": "Amadeus",
+    "year": 1984,
+    "rating": 8.3,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0086879"
+  },
+  {
+    "title": "Like Stars on Earth",
+    "year": 2007,
+    "rating": 8.5,
+    "genre": "Drama, Family",
+    "boxOffice": 1204660,
+    "id": "tt0986264"
+  },
+  {
+    "title": "Amélie",
+    "year": 2001,
+    "rating": 8.3,
+    "genre": "Comedy, Romance",
+    "boxOffice": 0,
+    "id": "tt0211915"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "rating": 8.3,
+    "genre": "Crime, Drama, Sci-Fi",
+    "boxOffice": 0,
+    "id": "tt0066921"
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "year": 1962,
+    "rating": 8.3,
+    "genre": "Adventure, Biography, Drama",
+    "boxOffice": 0,
+    "id": "tt0056172"
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "rating": 8.3,
+    "genre": "Drama, Romance, Sci-Fi",
+    "boxOffice": 34126138,
+    "id": "tt0338013"
+  },
+  {
+    "title": "Double Indemnity",
+    "year": 1944,
+    "rating": 8.3,
+    "genre": "Crime, Drama, Film-Noir",
+    "boxOffice": 0,
+    "id": "tt0036775"
+  },
+  {
+    "title": "Taxi Driver",
+    "year": 1976,
+    "rating": 8.3,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0075314"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "rating": 8.3,
+    "genre": "Adventure, Sci-Fi",
+    "boxOffice": 135620,
+    "id": "tt0062622"
+  },
+  {
+    "title": "3 Idiots",
+    "year": 2009,
+    "rating": 8.4,
+    "genre": "Comedy, Drama",
+    "boxOffice": 6500000,
+    "id": "tt1187043"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "rating": 8.3,
+    "genre": "Comedy, Musical, Romance",
+    "boxOffice": 0,
+    "id": "tt0045152"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "rating": 8.3,
+    "genre": "Animation, Adventure, Comedy",
+    "boxOffice": 0,
+    "id": "tt0114709"
+  },
+  {
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "rating": 8.3,
+    "genre": "Drama, War",
+    "boxOffice": 0,
+    "id": "tt0093058"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "year": 1962,
+    "rating": 8.3,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0056592"
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "rating": 8.3,
+    "genre": "Adventure, Drama, War",
+    "boxOffice": 120523073,
+    "id": "tt0361748"
+  },
+  {
+    "title": "Bicycle Thieves",
+    "year": 1948,
+    "rating": 8.3,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0040522"
+  },
+  {
+    "title": "The Sting",
+    "year": 1973,
+    "rating": 8.3,
+    "genre": "Comedy, Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0070735"
+  },
+  {
+    "title": "The Kid",
+    "year": 1921,
+    "rating": 8.3,
+    "genre": "Comedy, Drama, Family",
+    "boxOffice": 0,
+    "id": "tt0012349"
+  },
+  {
+    "title": "Toy Story 3",
+    "year": 2010,
+    "rating": 8.3,
+    "genre": "Animation, Adventure, Comedy",
+    "boxOffice": 414984497,
+    "id": "tt0435761"
+  },
+  {
+    "title": "Snatch",
+    "year": 2000,
+    "rating": 8.3,
+    "genre": "Comedy, Crime",
+    "boxOffice": 30093107,
+    "id": "tt0208092"
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "rating": 8.3,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0119217"
+  },
+  {
+    "title": "The Hunt",
+    "year": 2012,
+    "rating": 8.3,
+    "genre": "Drama",
+    "boxOffice": 610968,
+    "id": "tt2106476"
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "rating": 8.3,
+    "genre": "Adventure, Comedy, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0071853"
+  },
+  {
+    "title": "For a Few Dollars More",
+    "year": 1965,
+    "rating": 8.3,
+    "genre": "Western",
+    "boxOffice": 0,
+    "id": "tt0059578"
+  },
+  {
+    "title": "Scarface",
+    "year": 1983,
+    "rating": 8.3,
+    "genre": "Crime, Drama",
+    "boxOffice": 656161,
+    "id": "tt0086250"
+  },
+  {
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "rating": 8.3,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 0,
+    "id": "tt0119488"
+  },
+  {
+    "title": "The Apartment",
+    "year": 1960,
+    "rating": 8.3,
+    "genre": "Comedy, Drama, Romance",
+    "boxOffice": 0,
+    "id": "tt0053604"
+  },
+  {
+    "title": "Metropolis",
+    "year": 1927,
+    "rating": 8.3,
+    "genre": "Drama, Sci-Fi",
+    "boxOffice": 529603,
+    "id": "tt0017136"
+  },
+  {
+    "title": "A Separation",
+    "year": 2011,
+    "rating": 8.3,
+    "genre": "Drama, Mystery",
+    "boxOffice": 6700000,
+    "id": "tt1832382"
+  },
+  {
+    "title": "Rashomon",
+    "year": 1950,
+    "rating": 8.3,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 0,
+    "id": "tt0042876"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "rating": 8.3,
+    "genre": "Action, Adventure, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0097576"
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "rating": 8.3,
+    "genre": "Animation, Adventure, Comedy",
+    "boxOffice": 292979556,
+    "id": "tt1049413"
+  },
+  {
+    "title": "Yojimbo",
+    "year": 1961,
+    "rating": 8.3,
+    "genre": "Action, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0055630"
+  },
+  {
+    "title": "All About Eve",
+    "year": 1950,
+    "rating": 8.3,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0042192"
+  },
+  {
+    "title": "Batman Begins",
+    "year": 2005,
+    "rating": 8.3,
+    "genre": "Action, Adventure",
+    "boxOffice": 204100000,
+    "id": "tt0372784"
+  },
+  {
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "rating": 8.3,
+    "genre": "Comedy, Romance",
+    "boxOffice": 0,
+    "id": "tt0053291"
+  },
+  {
+    "title": "Unforgiven",
+    "year": 1992,
+    "rating": 8.2,
+    "genre": "Drama, Western",
+    "boxOffice": 0,
+    "id": "tt0105695"
+  },
+  {
+    "title": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "rating": 8.3,
+    "genre": "Adventure, Drama, Western",
+    "boxOffice": 0,
+    "id": "tt0040897"
+  },
+  {
+    "title": "Downfall",
+    "year": 2004,
+    "rating": 8.2,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 5475810,
+    "id": "tt0363163"
+  },
+  {
+    "title": "Die Hard",
+    "year": 1988,
+    "rating": 8.2,
+    "genre": "Action, Thriller",
+    "boxOffice": 0,
+    "id": "tt0095016"
+  },
+  {
+    "title": "Heat",
+    "year": 1995,
+    "rating": 8.2,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0113277"
+  },
+  {
+    "title": "My Father and My Son",
+    "year": 2005,
+    "rating": 8.5,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0476735"
+  },
+  {
+    "title": "Raging Bull",
+    "year": 1980,
+    "rating": 8.2,
+    "genre": "Biography, Drama, Sport",
+    "boxOffice": 0,
+    "id": "tt0081398"
+  },
+  {
+    "title": "Ikiru",
+    "year": 1952,
+    "rating": 8.3,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0044741"
+  },
+  {
+    "title": "The Great Escape",
+    "year": 1963,
+    "rating": 8.2,
+    "genre": "Adventure, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0057115"
+  },
+  {
+    "title": "The Third Man",
+    "year": 1949,
+    "rating": 8.2,
+    "genre": "Film-Noir, Mystery, Thriller",
+    "boxOffice": 0,
+    "id": "tt0041959"
+  },
+  {
+    "title": "Incendies",
+    "year": 2010,
+    "rating": 8.2,
+    "genre": "Drama, Mystery, War",
+    "boxOffice": 6857096,
+    "id": "tt1255953"
+  },
+  {
+    "title": "Children of Heaven",
+    "year": 1997,
+    "rating": 8.3,
+    "genre": "Drama, Family",
+    "boxOffice": 0,
+    "id": "tt0118849"
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "rating": 8.2,
+    "genre": "Drama, Fantasy, War",
+    "boxOffice": 37500000,
+    "id": "tt0457430"
+  },
+  {
+    "title": "Chinatown",
+    "year": 1974,
+    "rating": 8.2,
+    "genre": "Drama, Mystery, Thriller",
+    "boxOffice": 0,
+    "id": "tt0071315"
+  },
+  {
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "rating": 8.2,
+    "genre": "Crime, Drama",
+    "boxOffice": 52000189,
+    "id": "tt5027774"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "rating": 8.2,
+    "genre": "Animation, Family, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0096283"
+  },
+  {
+    "title": "Judgment at Nuremberg",
+    "year": 1961,
+    "rating": 8.2,
+    "genre": "Drama, War",
+    "boxOffice": 0,
+    "id": "tt0055031"
+  },
+  {
+    "title": "Ran",
+    "year": 1985,
+    "rating": 8.2,
+    "genre": "Action, Drama",
+    "boxOffice": 0,
+    "id": "tt0089881"
+  },
+  {
+    "title": "The Secret in Their Eyes",
+    "year": 2009,
+    "rating": 8.2,
+    "genre": "Drama, Mystery, Romance",
+    "boxOffice": 6390014,
+    "id": "tt1305806"
+  },
+  {
+    "title": "The Gold Rush",
+    "year": 1925,
+    "rating": 8.2,
+    "genre": "Adventure, Comedy, Drama",
+    "boxOffice": 0,
+    "id": "tt0015864"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "rating": 8.2,
+    "genre": "Animation, Adventure, Family",
+    "boxOffice": 4520887,
+    "id": "tt0347149"
+  },
+  {
+    "title": "The Bridge on the River Kwai",
+    "year": 1957,
+    "rating": 8.2,
+    "genre": "Adventure, Drama, War",
+    "boxOffice": 0,
+    "id": "tt0050212"
+  },
+  {
+    "title": "On the Waterfront",
+    "year": 1954,
+    "rating": 8.2,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0047296"
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "rating": 8.2,
+    "genre": "Comedy, Crime",
+    "boxOffice": 0,
+    "id": "tt0120735"
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "rating": 8.2,
+    "genre": "Animation, Adventure, Comedy",
+    "boxOffice": 264317903,
+    "id": "tt2096673"
+  },
+  {
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "rating": 8.2,
+    "genre": "Biography, Drama",
+    "boxOffice": 0,
+    "id": "tt0268978"
+  },
+  {
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "rating": 8.2,
+    "genre": "Drama, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0050976"
+  },
+  {
+    "title": "Casino",
+    "year": 1995,
+    "rating": 8.2,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0112641"
+  },
+  {
+    "title": "Room",
+    "year": 2015,
+    "rating": 8.2,
+    "genre": "Drama",
+    "boxOffice": 14677654,
+    "id": "tt3170832"
+  },
+  {
+    "title": "Mr. Smith Goes to Washington",
+    "year": 1939,
+    "rating": 8.2,
+    "genre": "Comedy, Drama",
+    "boxOffice": 0,
+    "id": "tt0031679"
+  },
+  {
+    "title": "The Elephant Man",
+    "year": 1980,
+    "rating": 8.2,
+    "genre": "Biography, Drama",
+    "boxOffice": 0,
+    "id": "tt0080678"
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "rating": 8.2,
+    "genre": "Biography, Comedy, Crime",
+    "boxOffice": 91330760,
+    "id": "tt0993846"
+  },
+  {
+    "title": "V for Vendetta",
+    "year": 2005,
+    "rating": 8.2,
+    "genre": "Action, Drama, Sci-Fi",
+    "boxOffice": 70500000,
+    "id": "tt0434409"
+  },
+  {
+    "title": "Blade Runner",
+    "year": 1982,
+    "rating": 8.2,
+    "genre": "Sci-Fi, Thriller",
+    "boxOffice": 0,
+    "id": "tt0083658"
+  },
+  {
+    "title": "Warrior",
+    "year": 2011,
+    "rating": 8.2,
+    "genre": "Drama, Sport",
+    "boxOffice": 13600000,
+    "id": "tt1291584"
+  },
+  {
+    "title": "Wild Strawberries",
+    "year": 1957,
+    "rating": 8.2,
+    "genre": "Drama, Romance",
+    "boxOffice": 0,
+    "id": "tt0050986"
+  },
+  {
+    "title": "The General",
+    "year": 1926,
+    "rating": 8.2,
+    "genre": "Action, Adventure, Comedy",
+    "boxOffice": 0,
+    "id": "tt0017925"
+  },
+  {
+    "title": "Dial M for Murder",
+    "year": 1954,
+    "rating": 8.2,
+    "genre": "Crime, Film-Noir, Thriller",
+    "boxOffice": 0,
+    "id": "tt0046912"
+  },
+  {
+    "title": "Trainspotting",
+    "year": 1996,
+    "rating": 8.2,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0117951"
+  },
+  {
+    "title": "Sherlock Jr.",
+    "year": 1924,
+    "rating": 8.3,
+    "genre": "Action, Comedy, Romance",
+    "boxOffice": 0,
+    "id": "tt0015324"
+  },
+  {
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "rating": 8.2,
+    "genre": "Drama, History, Romance",
+    "boxOffice": 0,
+    "id": "tt0031381"
+  },
+  {
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "rating": 8.1,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 74223625,
+    "id": "tt0477348"
+  },
+  {
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "rating": 8.1,
+    "genre": "Drama, Mystery, Thriller",
+    "boxOffice": 0,
+    "id": "tt0167404"
+  },
+  {
+    "title": "Gran Torino",
+    "year": 2008,
+    "rating": 8.1,
+    "genre": "Drama",
+    "boxOffice": 148055047,
+    "id": "tt1205489"
+  },
+  {
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "rating": 8.1,
+    "genre": "Drama",
+    "boxOffice": 40133435,
+    "id": "tt0469494"
+  },
+  {
+    "title": "Fargo",
+    "year": 1996,
+    "rating": 8.1,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0116282"
+  },
+  {
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "rating": 8.1,
+    "genre": "Drama, War",
+    "boxOffice": 0,
+    "id": "tt0077416"
+  },
+  {
+    "title": "The Thing",
+    "year": 1982,
+    "rating": 8.1,
+    "genre": "Horror, Mystery, Sci-Fi",
+    "boxOffice": 0,
+    "id": "tt0084787"
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "rating": 8.1,
+    "genre": "Animation, Adventure, Comedy",
+    "boxOffice": 380529370,
+    "id": "tt0266543"
+  },
+  {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "rating": 8.1,
+    "genre": "Comedy, Crime",
+    "boxOffice": 0,
+    "id": "tt0118715"
+  },
+  {
+    "title": "Come and See",
+    "year": 1985,
+    "rating": 8.2,
+    "genre": "Drama, War",
+    "boxOffice": 0,
+    "id": "tt0091251"
+  },
+  {
+    "title": "Cool Hand Luke",
+    "year": 1967,
+    "rating": 8.1,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0061512"
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "rating": 8.1,
+    "genre": "Action, Crime, Thriller",
+    "boxOffice": 0,
+    "id": "tt0266697"
+  },
+  {
+    "title": "Rebecca",
+    "year": 1940,
+    "rating": 8.1,
+    "genre": "Drama, Mystery, Romance",
+    "boxOffice": 0,
+    "id": "tt0032976"
+  },
+  {
+    "title": "Shutter Island",
+    "year": 2010,
+    "rating": 8.1,
+    "genre": "Mystery, Thriller",
+    "boxOffice": 125001000,
+    "id": "tt1130884"
+  },
+  {
+    "title": "Sunrise",
+    "year": 1927,
+    "rating": 8.2,
+    "genre": "Drama, Romance",
+    "boxOffice": 0,
+    "id": "tt0018455"
+  },
+  {
+    "title": "Tokyo Story",
+    "year": 1953,
+    "rating": 8.2,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0046438"
+  },
+  {
+    "title": "Hacksaw Ridge",
+    "year": 2016,
+    "rating": 8.2,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 67115062,
+    "id": "tt2119532"
+  },
+  {
+    "title": "Mary and Max",
+    "year": 2009,
+    "rating": 8.1,
+    "genre": "Animation, Comedy, Drama",
+    "boxOffice": 0,
+    "id": "tt0978762"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "rating": 8.1,
+    "genre": "Animation, Action, Adventure",
+    "boxOffice": 216900000,
+    "id": "tt0892769"
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "rating": 8.1,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 0,
+    "id": "tt2267998"
+  },
+  {
+    "title": "The Bandit",
+    "year": 1996,
+    "rating": 8.4,
+    "genre": "Crime, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0116231"
+  },
+  {
+    "title": "Into the Wild",
+    "year": 2007,
+    "rating": 8.1,
+    "genre": "Adventure, Biography, Drama",
+    "boxOffice": 18173360,
+    "id": "tt0758758"
+  },
+  {
+    "title": "Wild Tales",
+    "year": 2014,
+    "rating": 8.1,
+    "genre": "Comedy, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt3011894"
+  },
+  {
+    "title": "Life of Brian",
+    "year": 1979,
+    "rating": 8.1,
+    "genre": "Comedy",
+    "boxOffice": 0,
+    "id": "tt0079470"
+  },
+  {
+    "title": "Andrei Rublev",
+    "year": 1966,
+    "rating": 8.2,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0060107"
+  },
+  {
+    "title": "It Happened One Night",
+    "year": 1934,
+    "rating": 8.1,
+    "genre": "Comedy, Romance",
+    "boxOffice": 0,
+    "id": "tt0025316"
+  },
+  {
+    "title": "Platoon",
+    "year": 1986,
+    "rating": 8.1,
+    "genre": "Drama, War",
+    "boxOffice": 0,
+    "id": "tt0091763"
+  },
+  {
+    "title": "Rang De Basanti",
+    "year": 2006,
+    "rating": 8.3,
+    "genre": "Comedy, Drama",
+    "boxOffice": 0,
+    "id": "tt0405508"
+  },
+  {
+    "title": "In the Name of the Father",
+    "year": 1993,
+    "rating": 8.1,
+    "genre": "Biography, Drama",
+    "boxOffice": 0,
+    "id": "tt0107207"
+  },
+  {
+    "title": "Stand by Me",
+    "year": 1986,
+    "rating": 8.1,
+    "genre": "Adventure, Drama",
+    "boxOffice": 0,
+    "id": "tt0092005"
+  },
+  {
+    "title": "Network",
+    "year": 1976,
+    "rating": 8.1,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0074958"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "rating": 8.1,
+    "genre": "Adventure, Comedy, Drama",
+    "boxOffice": 56939515,
+    "id": "tt2278388"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "rating": 8.1,
+    "genre": "Adventure, Sci-Fi, Thriller",
+    "boxOffice": 45299680,
+    "id": "tt0107290"
+  },
+  {
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "rating": 8.1,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 23472900,
+    "id": "tt0395169"
+  },
+  {
+    "title": "The Passion of Joan of Arc",
+    "year": 1928,
+    "rating": 8.2,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0019254"
+  },
+  {
+    "title": "Stalker",
+    "year": 1979,
+    "rating": 8.1,
+    "genre": "Drama, Sci-Fi",
+    "boxOffice": 268101,
+    "id": "tt0079944"
+  },
+  {
+    "title": "Ben-Hur",
+    "year": 1959,
+    "rating": 8.1,
+    "genre": "Adventure, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0052618"
+  },
+  {
+    "title": "The Wages of Fear",
+    "year": 1953,
+    "rating": 8.2,
+    "genre": "Adventure, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0046268"
+  },
+  {
+    "title": "Rush",
+    "year": 2013,
+    "rating": 8.1,
+    "genre": "Action, Biography, Drama",
+    "boxOffice": 22442876,
+    "id": "tt1979320"
+  },
+  {
+    "title": "Persona",
+    "year": 1966,
+    "rating": 8.1,
+    "genre": "Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0060827"
+  },
+  {
+    "title": "The Truman Show",
+    "year": 1998,
+    "rating": 8.1,
+    "genre": "Comedy, Drama, Sci-Fi",
+    "boxOffice": 0,
+    "id": "tt0120382"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "rating": 8.1,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "boxOffice": 91800042,
+    "id": "tt1856101"
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "rating": 8.1,
+    "genre": "Action, Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0353969"
+  },
+  {
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "rating": 8.1,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 50628650,
+    "id": "tt2024544"
+  },
+  {
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "rating": 8.1,
+    "genre": "Drama, Sport",
+    "boxOffice": 100422786,
+    "id": "tt0405159"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "rating": 8.1,
+    "genre": "Action, Adventure, Sci-Fi",
+    "boxOffice": 129483877,
+    "id": "tt1392190"
+  },
+  {
+    "title": "The 400 Blows",
+    "year": 1959,
+    "rating": 8.1,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0053198"
+  },
+  {
+    "title": "Spotlight",
+    "year": 2015,
+    "rating": 8.1,
+    "genre": "Crime, Drama, History",
+    "boxOffice": 0,
+    "id": "tt1895587"
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "rating": 8.1,
+    "genre": "Action, Drama, Sci-Fi",
+    "boxOffice": 226276809,
+    "id": "tt3315342"
+  },
+  {
+    "title": "Before Sunrise",
+    "year": 1995,
+    "rating": 8.1,
+    "genre": "Drama, Romance",
+    "boxOffice": 0,
+    "id": "tt0112471"
+  },
+  {
+    "title": "Amores Perros",
+    "year": 2000,
+    "rating": 8.1,
+    "genre": "Drama, Thriller",
+    "boxOffice": 4856342,
+    "id": "tt0245712"
+  },
+  {
+    "title": "Hachi: A Dog's Tale",
+    "year": 2009,
+    "rating": 8.1,
+    "genre": "Drama, Family",
+    "boxOffice": 0,
+    "id": "tt1028532"
+  },
+  {
+    "title": "Prisoners",
+    "year": 2013,
+    "rating": 8.1,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 60962878,
+    "id": "tt1392214"
+  },
+  {
+    "title": "Butch Cassidy and the Sundance Kid",
+    "year": 1969,
+    "rating": 8.1,
+    "genre": "Biography, Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0064115"
+  },
+  {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "rating": 8.1,
+    "genre": "Adventure, Family, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0093779"
+  },
+  {
+    "title": "Nausicaä of the Valley of the Wind",
+    "year": 1984,
+    "rating": 8.1,
+    "genre": "Animation, Adventure, Fantasy",
+    "boxOffice": 0,
+    "id": "tt0087544"
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "rating": 8.1,
+    "genre": "Biography, Crime, Drama",
+    "boxOffice": 164400000,
+    "id": "tt0264464"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "rating": 8.1,
+    "genre": "Adventure, Drama, Fantasy",
+    "boxOffice": 381000185,
+    "id": "tt1201607"
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "rating": 8.1,
+    "genre": "Comedy, Drama, Music",
+    "boxOffice": 151058124,
+    "id": "tt3783958"
+  },
+  {
+    "title": "Rocky",
+    "year": 1976,
+    "rating": 8.1,
+    "genre": "Drama, Sport",
+    "boxOffice": 0,
+    "id": "tt0075148"
+  },
+  {
+    "title": "The Maltese Falcon",
+    "year": 1941,
+    "rating": 8.1,
+    "genre": "Film-Noir, Mystery",
+    "boxOffice": 0,
+    "id": "tt0033870"
+  },
+  {
+    "title": "Deadpool 2",
+    "year": 2018,
+    "rating": 8.4,
+    "genre": "Action, Adventure, Comedy",
+    "boxOffice": 0,
+    "id": "tt5463162"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "year": 1940,
+    "rating": 8.1,
+    "genre": "Drama, History",
+    "boxOffice": 0,
+    "id": "tt0032551"
+  },
+  {
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "rating": 8.1,
+    "genre": "Adventure, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0072684"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "rating": 8.1,
+    "genre": "Animation, Adventure, Comedy",
+    "boxOffice": 34034168,
+    "id": "tt0198781"
+  },
+  {
+    "title": "A Wednesday",
+    "year": 2008,
+    "rating": 8.2,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 0,
+    "id": "tt1280558"
+  },
+  {
+    "title": "The Nights of Cabiria",
+    "year": 1957,
+    "rating": 8.1,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0050783"
+  },
+  {
+    "title": "Donnie Darko",
+    "year": 2001,
+    "rating": 8.1,
+    "genre": "Drama, Sci-Fi, Thriller",
+    "boxOffice": 0,
+    "id": "tt0246578"
+  },
+  {
+    "title": "Diabolique",
+    "year": 1955,
+    "rating": 8.1,
+    "genre": "Crime, Drama, Horror",
+    "boxOffice": 0,
+    "id": "tt0046911"
+  },
+  {
+    "title": "Gandhi",
+    "year": 1982,
+    "rating": 8.1,
+    "genre": "Biography, Drama, History",
+    "boxOffice": 0,
+    "id": "tt0083987"
+  },
+  {
+    "title": "Paper Moon",
+    "year": 1973,
+    "rating": 8.1,
+    "genre": "Comedy, Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0070510"
+  },
+  {
+    "title": "The Terminator",
+    "year": 1984,
+    "rating": 8,
+    "genre": "Action, Sci-Fi",
+    "boxOffice": 0,
+    "id": "tt0088247"
+  },
+  {
+    "title": "La Haine",
+    "year": 1995,
+    "rating": 8.1,
+    "genre": "Crime, Drama",
+    "boxOffice": 0,
+    "id": "tt0113247"
+  },
+  {
+    "title": "Groundhog Day",
+    "year": 1993,
+    "rating": 8,
+    "genre": "Comedy, Fantasy, Romance",
+    "boxOffice": 0,
+    "id": "tt0107048"
+  },
+  {
+    "title": "Touch of Evil",
+    "year": 1958,
+    "rating": 8.1,
+    "genre": "Crime, Drama, Film-Noir",
+    "boxOffice": 0,
+    "id": "tt0052311"
+  },
+  {
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "rating": 8,
+    "genre": "Adventure, Family, Fantasy",
+    "boxOffice": 3840702,
+    "id": "tt0032138"
+  },
+  {
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "rating": 8.1,
+    "genre": "Comedy, Drama",
+    "boxOffice": 0,
+    "id": "tt0097165"
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "year": 2007,
+    "rating": 8,
+    "genre": "Action, Mystery, Thriller",
+    "boxOffice": 227400000,
+    "id": "tt0440963"
+  },
+  {
+    "title": "Jaws",
+    "year": 1975,
+    "rating": 8,
+    "genre": "Adventure, Drama, Thriller",
+    "boxOffice": 0,
+    "id": "tt0073195"
+  },
+  {
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "rating": 8.1,
+    "genre": "Drama, Romance",
+    "boxOffice": 0,
+    "id": "tt0118694"
+  },
+  {
+    "title": "The Help",
+    "year": 2011,
+    "rating": 8.1,
+    "genre": "Drama",
+    "boxOffice": 169705587,
+    "id": "tt1454029"
+  },
+  {
+    "title": "Annie Hall",
+    "year": 1977,
+    "rating": 8,
+    "genre": "Comedy, Romance",
+    "boxOffice": 0,
+    "id": "tt0075686"
+  },
+  {
+    "title": "8½",
+    "year": 1963,
+    "rating": 8.1,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0056801"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "rating": 8.1,
+    "genre": "Action, Adventure, Sci-Fi",
+    "boxOffice": 270592504,
+    "id": "tt2015381"
+  },
+  {
+    "title": "Paris, Texas",
+    "year": 1984,
+    "rating": 8.1,
+    "genre": "Drama",
+    "boxOffice": 0,
+    "id": "tt0087884"
+  },
+  {
+    "title": "The Best Years of Our Lives",
+    "year": 1946,
+    "rating": 8.1,
+    "genre": "Drama, Romance, War",
+    "boxOffice": 0,
+    "id": "tt0036868"
+  },
+  {
+    "title": "Before Sunset",
+    "year": 2004,
+    "rating": 8.1,
+    "genre": "Drama, Romance",
+    "boxOffice": 5600000,
+    "id": "tt0381681"
+  },
+  {
+    "title": "Infernal Affairs",
+    "year": 2002,
+    "rating": 8.1,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 0,
+    "id": "tt0338564"
+  },
+  {
+    "title": "The Handmaiden",
+    "year": 2016,
+    "rating": 8.1,
+    "genre": "Crime, Drama, Mystery",
+    "boxOffice": 2004919,
+    "id": "tt4016934"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "rating": 8,
+    "genre": "Action, Adventure, Fantasy",
+    "boxOffice": 305343252,
+    "id": "tt0325980"
+  },
+  {
+    "title": "Twelve Monkeys",
+    "year": 1995,
+    "rating": 8,
+    "genre": "Mystery, Sci-Fi, Thriller",
+    "boxOffice": 0,
+    "id": "tt0114746"
+  },
+  {
+    "title": "Akira",
+    "year": 1988,
+    "rating": 8.1,
+    "genre": "Animation, Action, Drama",
+    "boxOffice": 0,
+    "id": "tt0094625"
+  }
+]
