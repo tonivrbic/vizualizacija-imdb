@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>IMDb Top 250 movies</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://d3js.org/d3.v3.min.js"></script>
 </head>
@@ -17,20 +17,17 @@
     <div class="filter-container">
         <input type="text" class="search" placeholder="Search movies by title...">
         <button class="show-all">Show all</button>
-        <button class="show-box-office">Box office</button>
-        <!-- <div class="onoffswitch">
-            <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id="myonoffswitch" checked>
-            <label class="onoffswitch-label" for="myonoffswitch">
-                <span class="onoffswitch-inner"></span>
-                <span class="onoffswitch-switch"></span>
-            </label>
-        </div> -->
     </div>
     <svg id="scatter-graph"></svg>
     <p class="imdb-about">
         IMDb, also known as Internet Movie Database, is an online database of information related to world films, television programs, home videos and video games, and internet streams, including cast, production crew and personnel biographies, plot summaries, trivia, and fan reviews and ratings. An additional fan feature, message boards, was abandoned in February 2017. Originally a fan-operated website, the database is owned and operated by IMDb.com, Inc., a subsidiary of Amazon.
-        <a href="https://www.wikiwand.com/en/IMDb">[src:wikipedia]</a>
+        <a href="https://www.wikipedia.com/en/IMDb">[src:wikipedia]</a><br><br>
+        *Data collected from IMDb on June 1st, 2018.
     </p>
+    <footer class="footer">
+        <p>Made by Antonio Vrbić with <img src="d3.png" height="50"></p>
+        <p><a href="https://github.com/tonivrbic/vizualizacija-imdb/">Project on GitHub</a></p>
+    </footer>
     <div class="dialog__wrapper hidden">
         <div class="dialog__box">
             <div class="dialog__image">
