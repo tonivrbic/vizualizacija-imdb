@@ -8,7 +8,3 @@ class ImdbSpider(scrapy.Spider):
     def parse(self, response):
         for link in response.css('.titleColumn a::attr(href)').extract():
             yield {'id': str(link).split('/')[2]}
-
-        # for next_page in response.css('div.prev-post > a'):
-        #     yield response.follow(next_page, self.parse)
-        # yield response.follow(None)

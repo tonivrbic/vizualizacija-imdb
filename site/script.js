@@ -227,7 +227,7 @@ function drawLegend() {
 }
 
 function OnMovieClick(d) {
-  var url = "http://www.omdbapi.com/?apikey=94499cbb&t=" + d.title;
+  var url = "https://www.omdbapi.com/?apikey=94499cbb&t=" + d.title;
   d3.json(url, d => {
     title.textContent = `${d.Title} (${d.Year})`;
     desc.textContent = d.Plot;
@@ -274,7 +274,7 @@ function filterAndUpdateData() {
 
 function update(data, yDomain, yMapCustom) {
   // don't want dots overlapping axis, so add in buffer to data domain
-  xScale.domain([d3.min(data, xValue) - 2, d3.max(data, xValue) + 2]);
+  xScale.domain([d3.min(data, xValue) - 1, d3.max(data, xValue) + 1]);
 
   yScale.domain([d3.min(data, yValue) - 0.2, 9.5]);
 

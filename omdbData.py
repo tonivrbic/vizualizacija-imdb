@@ -10,13 +10,7 @@ urls = list(
 movies = []
 for url in urls:
 
-    headers = {
-        'Cache-Control': "no-cache",
-        'Postman-Token': "b6065f15-64b3-fa9d-bfd6-75858ebfe5aa"
-    }
-
-    response = requests.request(
-        "GET", url, headers=headers)
+    response = requests.request("GET", url)
 
     result = json.loads(response.text, encoding="utf8")
 
@@ -29,5 +23,5 @@ for url in urls:
         'id': result['imdbID']
     })
 
-with open('./data2.json', mode="w", encoding="utf8") as newjson:
+with open('./data.json', mode="w", encoding="utf8") as newjson:
     newjson.write(json.dumps(movies))
